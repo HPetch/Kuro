@@ -1,0 +1,1 @@
+if (obj_player.bbox_bottom > y) or (obj_player.down_input) mask_index = -1 else mask_index = this_sprite;

@@ -1,0 +1,7 @@
+
+
+
+
+rsp += -other.hsp;
+
+

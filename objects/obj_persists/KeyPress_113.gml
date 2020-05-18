@@ -1,0 +1,1 @@
+/// @description Res x2

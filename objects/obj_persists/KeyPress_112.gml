@@ -1,0 +1,1 @@
+/// @description Default resolution scale

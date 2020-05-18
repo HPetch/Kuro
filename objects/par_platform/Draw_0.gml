@@ -1,0 +1,1 @@
+draw_sprite(this_sprite,0,x,y);

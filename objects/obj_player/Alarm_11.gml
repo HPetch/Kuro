@@ -1,0 +1,1 @@
+/// @description Walkboost cooldown timer, nothing needed here
